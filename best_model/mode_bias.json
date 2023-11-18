@@ -1,0 +1,2457 @@
+{
+    "Politico": {
+        "left": 2493,
+        "right": 0,
+        "center": 0
+    },
+    "Bloomberg": {
+        "left": 0,
+        "right": 0,
+        "center": 178
+    },
+    "Washington Times": {
+        "left": 0,
+        "right": 2886,
+        "center": 0
+    },
+    "Salon": {
+        "left": 687,
+        "right": 0,
+        "center": 0
+    },
+    "CNN (Web News)": {
+        "left": 2905,
+        "right": 0,
+        "center": 0
+    },
+    "Fox Online News": {
+        "left": 0,
+        "right": 2047,
+        "center": 0
+    },
+    "Associated Press": {
+        "left": 0,
+        "right": 0,
+        "center": 391
+    },
+    "Townhall": {
+        "left": 0,
+        "right": 1285,
+        "center": 0
+    },
+    "New York Times - News": {
+        "left": 1417,
+        "right": 0,
+        "center": 0
+    },
+    "NPR Online News": {
+        "left": 0,
+        "right": 0,
+        "center": 2012
+    },
+    "Reason": {
+        "left": 0,
+        "right": 566,
+        "center": 0
+    },
+    "Guest Writer": {
+        "left": 0,
+        "right": 0,
+        "center": 94
+    },
+    "HotAir": {
+        "left": 0,
+        "right": 65,
+        "center": 0
+    },
+    "Yahoo! News": {
+        "left": 44,
+        "right": 0,
+        "center": 0
+    },
+    "Newsmax": {
+        "left": 0,
+        "right": 671,
+        "center": 0
+    },
+    "USA TODAY": {
+        "left": 0,
+        "right": 0,
+        "center": 1791
+    },
+    "John Stossel": {
+        "left": 0,
+        "right": 44,
+        "center": 0
+    },
+    "Fox News": {
+        "left": 0,
+        "right": 1356,
+        "center": 0
+    },
+    "National Review": {
+        "left": 0,
+        "right": 1014,
+        "center": 0
+    },
+    "New Republic": {
+        "left": 18,
+        "right": 0,
+        "center": 0
+    },
+    "Pew Research Center": {
+        "left": 0,
+        "right": 0,
+        "center": 58
+    },
+    "Vox": {
+        "left": 1460,
+        "right": 0,
+        "center": 0
+    },
+    "Wall Street Journal - News": {
+        "left": 0,
+        "right": 0,
+        "center": 335
+    },
+    "The Hill": {
+        "left": 0,
+        "right": 0,
+        "center": 1377
+    },
+    "The Guardian": {
+        "left": 644,
+        "right": 0,
+        "center": 0
+    },
+    "American Spectator": {
+        "left": 0,
+        "right": 310,
+        "center": 0
+    },
+    "The Nation": {
+        "left": 32,
+        "right": 0,
+        "center": 0
+    },
+    "Breitbart News": {
+        "left": 0,
+        "right": 465,
+        "center": 0
+    },
+    "BBC News": {
+        "left": 0,
+        "right": 0,
+        "center": 886
+    },
+    "The Flip Side": {
+        "left": 0,
+        "right": 0,
+        "center": 241
+    },
+    "Slate": {
+        "left": 158,
+        "right": 0,
+        "center": 0
+    },
+    "The New Yorker": {
+        "left": 21,
+        "right": 0,
+        "center": 0
+    },
+    "Reuters": {
+        "left": 0,
+        "right": 0,
+        "center": 927
+    },
+    "Guest Writer - Right": {
+        "left": 0,
+        "right": 465,
+        "center": 0
+    },
+    "Christian Science Monitor": {
+        "left": 0,
+        "right": 0,
+        "center": 1300
+    },
+    "New York Times - Opinion": {
+        "left": 69,
+        "right": 0,
+        "center": 0
+    },
+    "ABC News": {
+        "left": 341,
+        "right": 0,
+        "center": 0
+    },
+    "New York Post": {
+        "left": 0,
+        "right": 179,
+        "center": 0
+    },
+    "Mother Jones": {
+        "left": 114,
+        "right": 0,
+        "center": 0
+    },
+    "Charles Krauthammer": {
+        "left": 0,
+        "right": 9,
+        "center": 0
+    },
+    "The Daily Caller": {
+        "left": 0,
+        "right": 339,
+        "center": 0
+    },
+    "Fox News (Online)": {
+        "left": 0,
+        "right": 86,
+        "center": 0
+    },
+    "The Week - Opinion": {
+        "left": 24,
+        "right": 0,
+        "center": 0
+    },
+    "Daily Kos": {
+        "left": 127,
+        "right": 0,
+        "center": 0
+    },
+    "The Post Millennial": {
+        "left": 0,
+        "right": 9,
+        "center": 0
+    },
+    "Newsmax - News": {
+        "left": 0,
+        "right": 78,
+        "center": 0
+    },
+    "Daily Beast": {
+        "left": 240,
+        "right": 0,
+        "center": 0
+    },
+    "Washington Post": {
+        "left": 109,
+        "right": 0,
+        "center": 0
+    },
+    "The Dispatch": {
+        "left": 0,
+        "right": 34,
+        "center": 0
+    },
+    "Axios": {
+        "left": 0,
+        "right": 0,
+        "center": 76
+    },
+    "CBS News": {
+        "left": 164,
+        "right": 0,
+        "center": 0
+    },
+    "CBN": {
+        "left": 0,
+        "right": 504,
+        "center": 0
+    },
+    "CNN - Editorial": {
+        "left": 87,
+        "right": 0,
+        "center": 0
+    },
+    "WND.com": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Yahoo! The 360": {
+        "left": 0,
+        "right": 0,
+        "center": 80
+    },
+    "The Intercept": {
+        "left": 43,
+        "right": 0,
+        "center": 0
+    },
+    "Nicholas Kristof": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Las Vegas Sun": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "The Colorado Sun": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Orange County Register": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "Jezebel": {
+        "left": 5,
+        "right": 0,
+        "center": 0
+    },
+    "Media Matters": {
+        "left": 107,
+        "right": 0,
+        "center": 0
+    },
+    "CNBC": {
+        "left": 0,
+        "right": 0,
+        "center": 108
+    },
+    "Guest Writer - Left": {
+        "left": 180,
+        "right": 0,
+        "center": 0
+    },
+    "Victor Hanson": {
+        "left": 0,
+        "right": 63,
+        "center": 0
+    },
+    "The Daily Wire": {
+        "left": 0,
+        "right": 122,
+        "center": 0
+    },
+    "Committee to Protect Journalists": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "The Epoch Times": {
+        "left": 0,
+        "right": 30,
+        "center": 0
+    },
+    "Quillette": {
+        "left": 0,
+        "right": 23,
+        "center": 0
+    },
+    "Indiana Daily Student": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "NBCNews.com": {
+        "left": 18,
+        "right": 0,
+        "center": 0
+    },
+    "International Business Times": {
+        "left": 0,
+        "right": 0,
+        "center": 49
+    },
+    "Rich Lowry": {
+        "left": 0,
+        "right": 44,
+        "center": 0
+    },
+    "Star Tribune": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Vice": {
+        "left": 75,
+        "right": 0,
+        "center": 0
+    },
+    "Jonah Goldberg": {
+        "left": 0,
+        "right": 9,
+        "center": 0
+    },
+    "Medium": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "TheBlaze.com": {
+        "left": 0,
+        "right": 219,
+        "center": 0
+    },
+    "FiveThirtyEight": {
+        "left": 0,
+        "right": 0,
+        "center": 91
+    },
+    "Vanity Fair": {
+        "left": 157,
+        "right": 0,
+        "center": 0
+    },
+    "The Atlantic": {
+        "left": 174,
+        "right": 0,
+        "center": 0
+    },
+    "RealClearPolitics": {
+        "left": 0,
+        "right": 0,
+        "center": 46
+    },
+    "Black Enterprise": {
+        "left": 4,
+        "right": 0,
+        "center": 0
+    },
+    "Brookings Institution": {
+        "left": 0,
+        "right": 0,
+        "center": 16
+    },
+    "Chicago Sun-Times": {
+        "left": 83,
+        "right": 0,
+        "center": 0
+    },
+    "Jacobin": {
+        "left": 23,
+        "right": 0,
+        "center": 0
+    },
+    "BuzzFeed News": {
+        "left": 71,
+        "right": 0,
+        "center": 0
+    },
+    "Splinter": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "The Week - News": {
+        "left": 0,
+        "right": 0,
+        "center": 119
+    },
+    "Cato Institute (blog)": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "Bustle": {
+        "left": 9,
+        "right": 0,
+        "center": 0
+    },
+    "Fox News Opinion": {
+        "left": 0,
+        "right": 58,
+        "center": 0
+    },
+    "Lifehacker": {
+        "left": 0,
+        "right": 0,
+        "center": 14
+    },
+    "The Boston Globe": {
+        "left": 24,
+        "right": 0,
+        "center": 0
+    },
+    "MarketWatch": {
+        "left": 0,
+        "right": 106,
+        "center": 0
+    },
+    "Al Jazeera": {
+        "left": 144,
+        "right": 0,
+        "center": 1
+    },
+    "Newsmax - Opinion": {
+        "left": 0,
+        "right": 36,
+        "center": 0
+    },
+    "Carrie Lukas": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Student Press Law Center": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Michelle Malkin": {
+        "left": 0,
+        "right": 12,
+        "center": 0
+    },
+    "Michael Brendan Dougherty": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "Human Rights Watch": {
+        "left": 0,
+        "right": 0,
+        "center": 10
+    },
+    "USAPP": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "ThinkProgress": {
+        "left": 33,
+        "right": 0,
+        "center": 0
+    },
+    "New York Magazine": {
+        "left": 51,
+        "right": 0,
+        "center": 0
+    },
+    "Daily Mail": {
+        "left": 0,
+        "right": 46,
+        "center": 0
+    },
+    "Newt Gingrich": {
+        "left": 0,
+        "right": 14,
+        "center": 0
+    },
+    "Damon Linker": {
+        "left": 14,
+        "right": 0,
+        "center": 0
+    },
+    "Media Research Center": {
+        "left": 0,
+        "right": 45,
+        "center": 0
+    },
+    "Blue Virginia": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "The Marshall Project": {
+        "left": 0,
+        "right": 0,
+        "center": 27
+    },
+    "Democracy Now": {
+        "left": 75,
+        "right": 0,
+        "center": 0
+    },
+    "Michael Barone": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "ProPublica": {
+        "left": 34,
+        "right": 0,
+        "center": 38
+    },
+    "BET": {
+        "left": 17,
+        "right": 0,
+        "center": 0
+    },
+    "Ben Shapiro": {
+        "left": 0,
+        "right": 26,
+        "center": 0
+    },
+    "Michelle Goldberg": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Business Insider": {
+        "left": 0,
+        "right": 0,
+        "center": 76
+    },
+    "Brent Bozell": {
+        "left": 0,
+        "right": 6,
+        "center": 0
+    },
+    "John Fund": {
+        "left": 0,
+        "right": 16,
+        "center": 0
+    },
+    "ABC News (Online)": {
+        "left": 15,
+        "right": 0,
+        "center": 0
+    },
+    "AZO Cleantech": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Defense One": {
+        "left": 0,
+        "right": 0,
+        "center": 7
+    },
+    "S.E. Cupp": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "Independent Journal Review": {
+        "left": 0,
+        "right": 27,
+        "center": 0
+    },
+    "Rand Paul": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "Oxford University Press": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Ezra Klein": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "NewsBusters": {
+        "left": 0,
+        "right": 44,
+        "center": 0
+    },
+    "NBC News (Online)": {
+        "left": 38,
+        "right": 0,
+        "center": 0
+    },
+    "Business Wire": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Raw Story": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Wall Street Journal - Editorial": {
+        "left": 0,
+        "right": 10,
+        "center": 0
+    },
+    "Julian Zelizer": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "Mashable": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Snopes": {
+        "left": 0,
+        "right": 0,
+        "center": 18
+    },
+    "Sierra Sun": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Time Magazine": {
+        "left": 75,
+        "right": 0,
+        "center": 0
+    },
+    "The Observer (New York)": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "Scientific American": {
+        "left": 2,
+        "right": 0,
+        "center": 38
+    },
+    "Des Moines Register": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "George Will": {
+        "left": 0,
+        "right": 17,
+        "center": 0
+    },
+    "PinkNews": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Above The Law": {
+        "left": 6,
+        "right": 0,
+        "center": 0
+    },
+    "Tim Kaine": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Christianity Today": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "The Western Journal": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "The Jerusalem Post": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "The Courier-Journal": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Ben Stein": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "The Daily Signal": {
+        "left": 0,
+        "right": 10,
+        "center": 0
+    },
+    "The Verge": {
+        "left": 19,
+        "right": 0,
+        "center": 0
+    },
+    "Hillary Clinton": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "HuffPost": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "Jon Terbush": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "The Texas Tribune": {
+        "left": 6,
+        "right": 0,
+        "center": 0
+    },
+    "Erraticus": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "RollingStone.com": {
+        "left": 9,
+        "right": 0,
+        "center": 0
+    },
+    "AP Fact Check": {
+        "left": 8,
+        "right": 0,
+        "center": 0
+    },
+    "Education Week": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Guest Writer - Center": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Juan Williams": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "Wikipedia": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "Scott Jennings": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Esquire": {
+        "left": 5,
+        "right": 0,
+        "center": 0
+    },
+    "Gallup": {
+        "left": 0,
+        "right": 0,
+        "center": 7
+    },
+    "Foreign Policy": {
+        "left": 0,
+        "right": 0,
+        "center": 20
+    },
+    "TechCrunch": {
+        "left": 0,
+        "right": 0,
+        "center": 7
+    },
+    "Boston Herald": {
+        "left": 0,
+        "right": 10,
+        "center": 0
+    },
+    "The Economist": {
+        "left": 28,
+        "right": 0,
+        "center": 0
+    },
+    "Washington Free Beacon": {
+        "left": 0,
+        "right": 40,
+        "center": 0
+    },
+    "Fortune": {
+        "left": 0,
+        "right": 0,
+        "center": 4
+    },
+    "CNET": {
+        "left": 0,
+        "right": 0,
+        "center": 11
+    },
+    "The Thread": {
+        "left": 0,
+        "right": 0,
+        "center": 11
+    },
+    "The Intelligencer": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Gizmodo": {
+        "left": 1,
+        "right": 0,
+        "center": 3
+    },
+    "Howard Kurtz": {
+        "left": 0,
+        "right": 0,
+        "center": 14
+    },
+    "Michael Goodwin": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "Andrew Sullivan": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Daily Chela": {
+        "left": 8,
+        "right": 0,
+        "center": 0
+    },
+    "Fast Company": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "AL.com": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "New York Post (Opinion)": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "The Seattle Times": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "CNS News": {
+        "left": 0,
+        "right": 9,
+        "center": 0
+    },
+    "Voice of America": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "ESPN": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Roll Call": {
+        "left": 0,
+        "right": 0,
+        "center": 13
+    },
+    "PBS NewsHour": {
+        "left": 0,
+        "right": 0,
+        "center": 14
+    },
+    "Detroit News": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "AlterNet": {
+        "left": 6,
+        "right": 0,
+        "center": 0
+    },
+    "News Wise": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "WFAE": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Star News": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Jeff Jacoby": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Scriberr Media - Opinion/Editorial": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "New York Times (Online News)": {
+        "left": 22,
+        "right": 0,
+        "center": 0
+    },
+    "The Dallas Morning News": {
+        "left": 0,
+        "right": 0,
+        "center": 8
+    },
+    "Grist": {
+        "left": 13,
+        "right": 0,
+        "center": 0
+    },
+    "The Reporters Committee for Freedom of the Press": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "Scott Walker": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Mediaite": {
+        "left": 11,
+        "right": 0,
+        "center": 0
+    },
+    "Patriot Post": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Tallahassee Democrat": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "National Journal": {
+        "left": 0,
+        "right": 0,
+        "center": 6
+    },
+    "Allysia Finley (Wall Street Journal)": {
+        "left": 0,
+        "right": 6,
+        "center": 0
+    },
+    "CNSNews.com": {
+        "left": 0,
+        "right": 6,
+        "center": 0
+    },
+    "New York Post (News)": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "Pat Buchanan": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "Lawrence Journal World": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "MIT News": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Quartz": {
+        "left": 0,
+        "right": 0,
+        "center": 11
+    },
+    "Psypost": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "CBS SFBayArea": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "David Brooks": {
+        "left": 0,
+        "right": 7,
+        "center": 0
+    },
+    "Bridgemi.com": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Prager University": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "The Libertarian Republic": {
+        "left": 0,
+        "right": 4,
+        "center": 0
+    },
+    "The Resurgent": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Wired": {
+        "left": 0,
+        "right": 0,
+        "center": 16
+    },
+    "CalMatters": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Deseret News": {
+        "left": 0,
+        "right": 11,
+        "center": 0
+    },
+    "The Diplomat": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "AARP": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Rem Reider": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Ann Coulter": {
+        "left": 0,
+        "right": 7,
+        "center": 0
+    },
+    "Pacific Standard": {
+        "left": 6,
+        "right": 0,
+        "center": 0
+    },
+    "Federation of American Scientists": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Medical Daily": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "San Francisco Chronicle": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "Boston Review": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Ryan Cooper": {
+        "left": 6,
+        "right": 0,
+        "center": 0
+    },
+    "Nieman Lab": {
+        "left": 0,
+        "right": 0,
+        "center": 12
+    },
+    "The Independent": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "RAND Corporation": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Fiscal Times": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "London School of Economics": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Boston Herald Editorial": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Daily Cardinal": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Independent Institute": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "The Advocate": {
+        "left": 1,
+        "right": 0,
+        "center": 1
+    },
+    "InfoWars": {
+        "left": 0,
+        "right": 21,
+        "center": 0
+    },
+    "Andrew Napolitano": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Reason Foundation": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "The Root": {
+        "left": 9,
+        "right": 0,
+        "center": 0
+    },
+    "Matt Welch": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Thomas Sowell": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "ZeroHedge": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "CBC News": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Investor's Business Daily": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Live Action News": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Project Syndicate": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "IVN": {
+        "left": 0,
+        "right": 0,
+        "center": 11
+    },
+    "Detroit Free Press": {
+        "left": 5,
+        "right": 0,
+        "center": 2
+    },
+    "AllSides": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Sally Pipes": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Bret Stephens": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Charles Blow": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Peacock Panache": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "MichelleMalkin.com": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Kathleen Parker": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "NPR Editorial ": {
+        "left": 8,
+        "right": 0,
+        "center": 0
+    },
+    "Current Affairs": {
+        "left": 5,
+        "right": 0,
+        "center": 0
+    },
+    "Portland Press Herald": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "The Massachusetts Daily Collegian": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "MSNBC": {
+        "left": 17,
+        "right": 0,
+        "center": 0
+    },
+    "Jeff Spross": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Bring Me The News": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Jonathan Chait": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Arkadi Gerney": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Annafi Wahed": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "American Thinker": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "Conor Friedersdorf": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Cook Report": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Al Cardenas": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "City Lab": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Michael Kinsley": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Mercatus Center": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Carol Costello": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "TED": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Newsmax (News)": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "Center For American Progress": {
+        "left": 10,
+        "right": 0,
+        "center": 0
+    },
+    "Rutgers Today": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "John Gable, AllSides Founder": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Frank Bruni": {
+        "left": 4,
+        "right": 0,
+        "center": 0
+    },
+    "The Times of Israel": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Block Club Chicago": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "East Bay Times": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Smithsonian Magazine": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "NASA": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Piers Morgan": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Whitehouse.gov": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Mit\u00fa": {
+        "left": 5,
+        "right": 0,
+        "center": 0
+    },
+    "The Texan": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "NBC Today Show": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Bipartisan Policy Center": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "PACE": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Joan Blades": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Religion News Service": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Ken Burns": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Justice": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Ralph Benko": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "The Daily Texan": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Center for Public Integrity": {
+        "left": 4,
+        "right": 0,
+        "center": 0
+    },
+    "Cato Institute": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Yellow Scene Magazine": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "New York Daily News": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Ross Douthat": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "The American Mind": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Thomas Frey": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "PJ Media": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "Elizabeth Warren": {
+        "left": 4,
+        "right": 0,
+        "center": 0
+    },
+    "The Globe and Mail": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Bipartisan Report": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Tucker Carlson": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Dick Morris": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Latino Rebels": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Billy Binion": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "The American Spectator": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "William Bennett": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Ted Rall (cartoonist)": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "American Enterprise Institute": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Rich Zeoli": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "San Jose Mercury News": {
+        "left": 4,
+        "right": 0,
+        "center": 0
+    },
+    "Rev. Jesse Jackson Sr.": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Duke Chronicle": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Odyssey Online": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Dennis Prager": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Barack Obama": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Scriberr Media - News": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Inside Philanthropy": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Cosmopolitan": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "TruthOut": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Family Research Council": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "MediaPost": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Heritage Foundation": {
+        "left": 0,
+        "right": 8,
+        "center": 0
+    },
+    "Marijuana Moment": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Herald Democrat": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Chris Ruddy": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "JSTOR Daily": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Jonathan Miller": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Washington Examiner": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Aaron Carroll": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Chicago Tribune": {
+        "left": 0,
+        "right": 0,
+        "center": 5
+    },
+    "University of Bath": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Association for Psychological Science": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Louisville Courier-Journal": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "PRI (Public Radio International)": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "SFGate": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Matt Towery": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Mitt Romney": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Christopher Buskirk": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "The Imaginative Conservative": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Atlanta Journal-Constitution": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Tom Cole": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Heavy.com": {
+        "left": 0,
+        "right": 0,
+        "center": 3
+    },
+    "Fox News Latino": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Arkansas Democrat-Gazette": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "KUTV": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Jim Obergefell": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Brock Press": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "GLAAD": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "LGBTQ Nation": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "City Journal": {
+        "left": 0,
+        "right": 5,
+        "center": 0
+    },
+    "The Denver Post": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Fabius Maximus": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "The Conversation": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "DesMoines Register": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Red State": {
+        "left": 0,
+        "right": 3,
+        "center": 0
+    },
+    "Deadline.com": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Gail Collins": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Eli Parser": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "American Greatness": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Misinformation Review": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The American Conservative": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "David Leonhardt": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Lisa Gable": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Los Angeles Times": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "NewsOne": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Peggy Noonan": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Daily Northwestern": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "CalWatchdog": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Honolulu Civil Beat": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "David Williamson": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "ACLU": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "University of Delaware Review": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Intellectual Conservative": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Brown Girl Magazine": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Bucks County Courier Times": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "OpenSecrets.org": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Tom Nichols": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Socialist Worker": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Telegraph - UK": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Civil.Ge": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Metrocosm": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Living Room Conversations": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Foreign Affairs": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Glamour": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Right Side News": {
+        "left": 0,
+        "right": 2,
+        "center": 0
+    },
+    "Rasmussen Reports": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "James Bovard": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "The Times Higher Education": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "WGN": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "CivilPolitics.org": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Daily Wildcat": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Drudge Report": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "KALW.org": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "FAIR": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "WBFO": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Commentary Magazine": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Indy Online": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Jesse Jackson": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Teen Vogue": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "The Hoya": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Socialist Project/The Bullet": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "CU Independent": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Commercial Appeal": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Thomas Frank": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Wausau Daily Herald": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Conservative HQ": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Webster Journal": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Daily Sabah": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "GQ.com": {
+        "left": 2,
+        "right": 0,
+        "center": 0
+    },
+    "Global Research": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Walt Handelsman (cartoonist)": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Dana Milbank": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "KSL": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Jonathan Haidt": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Marc A. Thiessen": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Military Times": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Harvard Business School": {
+        "left": 3,
+        "right": 0,
+        "center": 0
+    },
+    "Zionist Organization of America": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Longmont Times-Call": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Kitsap Sun": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Outline": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Pacific Research Institute": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Bay Area Bandwith": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "NMPolitics.net": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Hollywood Reporter": {
+        "left": 1,
+        "right": 0,
+        "center": 1
+    },
+    "San Gabriel Valley Tribune": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Kellogg Insight": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Socialist Alternative": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Western Journal": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Polish Times": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Manhattan Institute": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Penn Live": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "theunion.com": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Henry A. Brechter": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "RedCross.org": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Amy Klobuchar": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "The Korea Herald": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Freakonomics": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Mitch McConnell": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Mic": {
+        "left": 0,
+        "right": 0,
+        "center": 2
+    },
+    "Peter Thiel": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Kalamazoo Gazette": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "NBC (Web News)": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Quinnipiac University": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "DAG Blog": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Richard A. Lowry": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Houston Chronicle": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "FXStreet": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Daily Targum": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "University of Wyoming": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The State Press": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Carnegie Endowment for International Peace": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Noah Rothman": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Neil J. Young": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Concord Monitor": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "FEE.org": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "International Institute for Strategic Studies": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Volante": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Tucson Weekly": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Commonwealth Journal": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Baltimore Sun": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Rahm Emanuel": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Brown University": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Americans for Tax Reform": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Toronto Star": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Counter Currents": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Paul Ryan": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Austin American-Statesman": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "Joe Scarborough": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "New York Times Editorial Board": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    },
+    "John Boehner": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "National Interest": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Center - Major Media Sources": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "Daily Camera": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "AZ Central": {
+        "left": 0,
+        "right": 0,
+        "center": 1
+    },
+    "The Catalyst": {
+        "left": 0,
+        "right": 1,
+        "center": 0
+    },
+    "Washington Monthly": {
+        "left": 1,
+        "right": 0,
+        "center": 0
+    }
+}
