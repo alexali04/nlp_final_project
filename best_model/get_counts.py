@@ -15,7 +15,7 @@ num_bias = {}
 
 mode_bias = {}
 
-directory = './data/jsons'
+directory = '../data_1/jsons'
 
 counter = 0
 politico_counter = 0
@@ -33,6 +33,8 @@ for json_file in os.listdir(directory):
             bias_text = article['bias_text']
 
 
+
+
             # if source == 'Politico':
             #     politico_counter += 1
             #     print(directory + json_file + " " + str(article['bias']))
@@ -48,8 +50,10 @@ for json_file in os.listdir(directory):
                 mode_bias[source][bias_text] = 1
             else:
                 mode_bias[source][bias_text] += 1
-            
-            
+
+
+
+
 
 ouput_files = ['num_bias.json', 'sum_bias.json', 'mode_bias.json']
 relevant_dicts = [num_bias, sum_bias, mode_bias]
@@ -57,5 +61,7 @@ relevant_dicts = [num_bias, sum_bias, mode_bias]
 for i in range(len(relevant_dicts)):
     with open(ouput_files[i], 'w') as output:
         json.dump(relevant_dicts[i], output, indent=4)
+        
 
-print(counter)
+
+
