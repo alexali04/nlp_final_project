@@ -55,7 +55,7 @@ for json_file in os.listdir(directory):
 
 
 
-ouput_files = ['num_bias.json', 'sum_bias.json', 'mode_bias.json']
+ouput_files = ['total_appearances_by_source.json', 'total_sum_numeric_bias.json', 'mode_bias.json']
 relevant_dicts = [num_bias, sum_bias, mode_bias]
 
 for i in range(len(relevant_dicts)):

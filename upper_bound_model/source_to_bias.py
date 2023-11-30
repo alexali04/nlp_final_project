@@ -31,6 +31,6 @@ with open("num_bias.json") as count, open("sum_bias.json") as s2b, open("mode_bi
             source_bias[source]['median'] = 'right'
 
 
-with open('basline_model.json', 'w') as output:
+with open('upper_bound_model.json', 'w') as output:
     json.dump(source_bias, output, indent=4)
     
