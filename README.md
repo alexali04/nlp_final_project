@@ -27,10 +27,11 @@ Second, we cleaned the data by removing phrases such as "JUST WATCHED", "MUST WA
 
 In our final training session, the model achieved the following results:
 
-Accuracy: 0.8746666666666667 
-
-metric:  precision    recall    f1-score    support 
-left         0.85             0.91      0.88           550 
-center   0.87             0.87      0.87           384 
-right       0.91             0.84      0.88          566 
-
+#### Accuracy
+0.8747
+#### Metrics
+| Class  | Precision | Recall | F1-Score | Support |
+|--------|-----------|--------|----------|---------|
+| Left   | 0.85      | 0.91   | 0.88     | 550     |
+| Center | 0.87      | 0.87   | 0.87     | 384     |
+| Right  | 0.91      | 0.84   | 0.88     | 566     |
