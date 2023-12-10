@@ -1,4 +1,4 @@
-# Final Project - NLP
+# Partisan Classification System
 
 Members:
 
