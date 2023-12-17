@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
 '''
 OUTPUT:
-precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
         left       0.00      0.00      0.00     11747
       center       0.00      0.00      0.00      9823
